@@ -283,6 +283,13 @@ body {
     margin-left: -60px;
 }
 
+.benue{
+    background-color: black;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+
 .rotate-45 {
     -moz-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
